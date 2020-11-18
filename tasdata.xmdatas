@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <allkeys>
-	 <itemkeys>
-         <isneedclose>0</isneedclose>
-	<ggType>3</ggType>
-        <name>747699192695775_747699652695729</name>
+    <itemkeys>
+        <isneedclose>0</isneedclose>
+	    <ggType>1</ggType>
+        <name>0</name>
+        <name2>0</name2>
     </itemkeys>
     <itemkeys>
          <isneedclose>1</isneedclose>
